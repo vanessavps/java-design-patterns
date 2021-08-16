@@ -1,12 +1,11 @@
 package com.vanessavps.patterns.creational.singleton;
 
-
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
 public class SingletonTest {
-  
+
   @Test
   public void testSingletonClass() {
     Singleton firstClass = Singleton.getInstance();
