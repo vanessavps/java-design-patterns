@@ -6,6 +6,7 @@ Some design patterns examples in Java
 * [Builder](src/main/java/com/vanessavps/patterns/creational/builder)
 * [Factory](src/main/java/com/vanessavps/patterns/creational/factory)
 * [Abstract Factory](src/main/java/com/vanessavps/patterns/creational/abstractFactory)
+* [Prototype](src/main/java/com/vanessavps/patterns/creational/prototype)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
