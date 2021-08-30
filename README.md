@@ -8,5 +8,9 @@ Some design patterns examples in Java
 * [Abstract Factory](src/main/java/com/vanessavps/patterns/creational/abstractFactory)
 * [Prototype](src/main/java/com/vanessavps/patterns/creational/prototype)
 
+## Structural Patterns
+* [Adapter](src/main/java/com/vanessavps/patterns/structural/adapter)
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
