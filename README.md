@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/vanessavps/java-design-patterns.svg?branch=main)](https://app.travis-ci.com/vanessavps/java-design-patterns)
 # Design Patterns - Java
 Some design patterns examples in Java
 
