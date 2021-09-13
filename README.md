@@ -12,6 +12,7 @@ Some design patterns examples in Java
 ## Structural Patterns
 * [Adapter](src/main/java/com/vanessavps/patterns/structural/adapter)
 * [Bridge](src/main/java/com/vanessavps/patterns/structural/bridge)
+* [Composite](src/main/java/com/vanessavps/patterns/structural/composite)
 
 
 ## License
