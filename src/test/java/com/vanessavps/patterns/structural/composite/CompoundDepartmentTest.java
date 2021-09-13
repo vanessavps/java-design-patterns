@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class HeadDepartmentTest {
+public class CompoundDepartmentTest {
 
   @Test
   public void testHeadDepartment() {
