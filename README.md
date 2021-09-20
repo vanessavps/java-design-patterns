@@ -14,6 +14,7 @@ Some design patterns examples in Java
 * [Bridge](src/main/java/com/vanessavps/patterns/structural/bridge)
 * [Composite](src/main/java/com/vanessavps/patterns/structural/composite)
 * [Decorator](src/main/java/com/vanessavps/patterns/structural/decorator)
+* [Facade](src/main/java/com/vanessavps/patterns/structural/facade)
 
 
 ## License
