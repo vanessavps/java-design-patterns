@@ -16,6 +16,7 @@ Some design patterns examples in Java
 * [Decorator](src/main/java/com/vanessavps/patterns/structural/decorator)
 * [Facade](src/main/java/com/vanessavps/patterns/structural/facade)
 * [Flyweight](src/main/java/com/vanessavps/patterns/structural/flyweight)
+* [Proxy](src/main/java/com/vanessavps/patterns/structural/proxy)
 
 
 ## License
