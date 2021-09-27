@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class ShapeFactoryTest {
+public class ShapeFlyweightFactoryTest {
   private final ShapeFactory shapeFactory = new ShapeFactory();
 
   @Test
