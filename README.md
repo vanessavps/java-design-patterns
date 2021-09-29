@@ -18,6 +18,8 @@ Some design patterns examples in Java
 * [Flyweight](src/main/java/com/vanessavps/patterns/structural/flyweight)
 * [Proxy](src/main/java/com/vanessavps/patterns/structural/proxy)
 
+## Behavioral Patterns
+* [Chain of Responsibility](src/main/java/com/vanessavps/patterns/behavioral/chainOfResponsibility)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
