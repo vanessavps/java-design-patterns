@@ -19,9 +19,7 @@ public class NameRepository implements Container {
     @Override
     public Object next() {
       if (this.hasNext()) {
-        String name = names[index];
-        index++;
-        return name;
+        return names[index++];
       }
       return null;
     }
