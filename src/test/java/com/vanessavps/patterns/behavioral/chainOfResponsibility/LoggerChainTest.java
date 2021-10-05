@@ -10,7 +10,7 @@ public class LoggerChainTest {
   public void testLoggerChain() {
     Logger loggerChain = LoggerChain.getChainOfLoggers();
     String infoMessage = "This is an information.";
-    String debugMessage = "This is an debug level information.";
+    String debugMessage = "This is a debug level information.";
     String errorMessage = "This is an error information.";
 
     String infoDisplayedMessage = loggerChain.logMessage(Logger.INFO, infoMessage);
