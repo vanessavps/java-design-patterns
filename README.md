@@ -22,6 +22,7 @@ Some design patterns examples in Java
 * [Chain of Responsibility](src/main/java/com/vanessavps/patterns/behavioral/chainOfResponsibility)
 * [Command](src/main/java/com/vanessavps/patterns/behavioral/command)
 * [Iterator](src/main/java/com/vanessavps/patterns/behavioral/iterator)
+* [Mediator](src/main/java/com/vanessavps/patterns/behavioral/mediator)
 * [Strategy](src/main/java/com/vanessavps/patterns/behavioral/strategy)
 
 ## License
