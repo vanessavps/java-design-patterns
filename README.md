@@ -24,6 +24,7 @@ Some design patterns examples in Java
 * [Iterator](src/main/java/com/vanessavps/patterns/behavioral/iterator)
 * [Mediator](src/main/java/com/vanessavps/patterns/behavioral/mediator)
 * [Strategy](src/main/java/com/vanessavps/patterns/behavioral/strategy)
+* [Memento](src/main/java/com/vanessavps/patterns/behavioral/memento)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
