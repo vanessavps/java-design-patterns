@@ -26,6 +26,7 @@ Some design patterns examples in Java
 * [Strategy](src/main/java/com/vanessavps/patterns/behavioral/strategy)
 * [Memento](src/main/java/com/vanessavps/patterns/behavioral/memento)
 * [State](src/main/java/com/vanessavps/patterns/behavioral/state)
+* [Observer](src/main/java/com/vanessavps/patterns/behavioral/observer)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
