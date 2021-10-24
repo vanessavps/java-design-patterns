@@ -29,6 +29,7 @@ Some design patterns examples in Java
 * [Observer](src/main/java/com/vanessavps/patterns/behavioral/observer)
 * [Template](src/main/java/com/vanessavps/patterns/behavioral/template)
 * [Interpreter](src/main/java/com/vanessavps/patterns/behavioral/interpreter)
+* [Visitor](src/main/java/com/vanessavps/patterns/behavioral/visitor)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
